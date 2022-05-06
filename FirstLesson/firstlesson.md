@@ -23,7 +23,7 @@ In our case the extension will be **".py"** That refers to Python
 
 | Extension | Kind of Lenguajes |
 |-----------|-------------------|
-| Python | .pyy |
+| Python | .py |
 | C++ | .cpp |
 | JavaScrip | .js |
 | HTML **It's not a Programing Lenguaje** | .html |
