@@ -5,7 +5,7 @@ The first thing that we have to know is that in Python and programing we will us
 In the next table you will find the most popular and common data type 
 
 | Data | Examples |
-|......|..........|
+|------|----------|
 |Integers|1,2,10,13|
 
 
