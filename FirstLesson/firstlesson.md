@@ -22,6 +22,7 @@ When you are gooing to create a file that contain code inside you have to especi
 In our case the extension will be **".py"** That refers to Python
 
 | Extension | Kind of Lenguajes |
+|-----------|-------------------|
 | Python | .pyy |
 | C++ | .cpp |
 | JavaScrip | .js |
