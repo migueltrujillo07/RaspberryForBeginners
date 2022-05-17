@@ -1,2 +1,3 @@
 import os
-os.makedirs('new/folder')
+os.makels
+dirs('new/folder')
